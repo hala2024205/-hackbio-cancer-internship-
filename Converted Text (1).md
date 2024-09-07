@@ -1,4 +1,4 @@
-Data visualization 
+                                         Data visualization 
 
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps  , Depending on the demands of the data and the insights being sought, there are numerous styles of data visualization, such as bie and bar charts.(1)
 
